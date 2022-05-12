@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ifoxy404
+- 👀 I’m interested in enter the IT world and become a data scientist 
+- 🌱 I’m currently learning Python for data analysis, data sciencie and bioinformatics
+- 💞️ I’m looking to collaborate with new ideas, and help with codes for automation
+- 📫 U can reach me on clarissa4cz@gmail.com
